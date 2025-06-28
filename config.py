@@ -1,0 +1,16 @@
+CONFIG = {
+    'alpha': 1e-2,
+    'gamma': 0.9,
+    'epsilon_start': 1.0,
+    'epsilon_end': 1e-2,
+    'buffer_size': 6000,
+    'batch_size': 32,
+    'dropout': 0.3,
+    'num_episodes': 3000,
+    'sync_interval': 50,
+    'eta_start': 0.95,
+    'eta_min': 0.05,
+    'eta_decay': 0.05,
+    'input_dim': 4,
+    'output_dim': 22,
+}
