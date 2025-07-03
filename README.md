@@ -1,4 +1,4 @@
-# RAQN Reproducibility Project
+# RAQN  Project
 
 This project contains a full reproducible implementation of the RAQN algorithm as described in the paper.
 It includes:
